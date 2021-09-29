@@ -18,3 +18,5 @@ class Soulution:
         answer = Soulution().longestpalindrome()
         print (answer)
         results("babad")
+        
+        #my gmail is iam.satar.moh@gmail.com
